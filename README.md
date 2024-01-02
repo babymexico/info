@@ -14,7 +14,6 @@
 <br />
 <br />
 
-
 ### Version Control & Managment software:
 [<img align="left" alt="GitLab" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />][gitlab]
 [<img align="left" alt="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />][github]
@@ -55,11 +54,8 @@
 [<img align="left" alt="NumPy" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" />][numpy]
 [<img align="left" alt="Spring" width="50px" src="https://res.cloudinary.com/nooskii/image/upload/v1704202759/github_readme/a0wt61eu3f1ondkds0ij.svg" />][spring]
 
-
-
 <br />
 <br />
-
 
 ### Contact me via [:mailbox:](yauhenipleshakou@gmail.com) or [telegram](https://t.me/baby_mexico):
 [<img align="left" alt="linkedIn" width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
